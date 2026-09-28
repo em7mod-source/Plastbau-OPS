@@ -1,0 +1,15 @@
+# Company data files must never be committed
+*.json
+!manifest.webmanifest
+Plastbau_OPS_Data*
+Plastbau_Factory_Data*
+*backup*
+*.xlsx
+*.pdf
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
